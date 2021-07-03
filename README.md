@@ -5,7 +5,7 @@ A Game Boy Advance game for the [GBA Jam 2021](https://itch.io/jam/gbajam21)
 
 by **Dr. Ludos** *(2021)*
 
-This is the source code, you can get a precompiled rom from here:
+This is the source code, you can get a precompiled rom from here: https://drludos.itch.io/meteorain-gba-jam-2021
 
  
 ***
