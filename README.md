@@ -1,4 +1,4 @@
-# meteorain-gba
+# MeteoRain (GBA)
 
 
 A Game Boy Advance game for the [GBA Jam 2021](https://itch.io/jam/gbajam21)
