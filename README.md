@@ -5,7 +5,8 @@ A Game Boy Advance game for the [GBA Jam 2021](https://itch.io/jam/gbajam21)
 
 by **Dr. Ludos** *(2021)*
 
-This is the source code, you can get a precompiled rom from here: https://drludos.itch.io/meteorain-gba-jam-2021
+This is the source code, you can get a precompiled rom from here: \
+https://drludos.itch.io/meteorain-gba-jam-2021
 
  
 ***
@@ -21,8 +22,12 @@ This is a port/remake of a previous homebrew game I did for the [SEGA Mega Drive
 
 If you want to try your hand at making GBA games, I really recommend you BPCore-Engine: it's a real pleasure to make games with it. And I'm also sharing the heavily commented code source of my game here if it can help you making your own GBA games in Lua!
 
-Last but not least, the great  **music titled "Overmode" was composed by Warlord**, under a CC-BY-NC-SA licence:\
+## Music credits
+
+Ingame music: **"Overmode" by Warlord**, used under a CC-BY-NC-SA licence:\
 http://battleofthebits.org/arena/Entry/Overmode/7738/  
+
+The music was converted to a 16kHz signed 8bit PCM audio format (see "music.raw" file) to be played back on the GBA.
 
 ## How to build
 
