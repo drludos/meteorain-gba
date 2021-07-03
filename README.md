@@ -5,6 +5,8 @@ A Game Boy Advance game for the [GBA Jam 2021](https://itch.io/jam/gbajam21)
 
 by **Dr. Ludos** *(2021)*
 
+This is the source code, you can get a precompiled rom from here:
+
  
 ***
 Get all **my other games**: http://drludos.itch.io/ \
@@ -21,3 +23,13 @@ If you want to try your hand at making GBA games, I really recommend you BPCore-
 
 Last but not least, the great  **music titled "Overmode" was composed by Warlord**, under a CC-BY-NC-SA licence:\
 http://battleofthebits.org/arena/Entry/Overmode/7738/  
+
+## How to build
+
+This game was made using [BPCore-Engine 0.05](https://github.com/evanbowman/BPCore-Engine/releases/tag/0.0.5), that is also included here for convenience.
+
+To build the rom, you'll need to have Lua 5.3 installed on your system, and to launch the "build.lua" script. It'll take the raw "BPCoreEngine.gba" rom, and inject both the assets (graphics, audio) and code (lua scripts) to generate a fully working GBA rom with the game.
+
+The whole game code is located in the "main.lua" file, that is heavily commented to help you read the code. The final rom release actually use a "minified" version of the same code, also included here "mainMINIFIED.lua". I used the following site to minify the lua script: https://mothereff.in/lua-minifier
+
+I hope you'll enjoy the game, and don't hesitate to ask me if you have any question about the source code!
