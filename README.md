@@ -7,8 +7,8 @@ by **Dr. Ludos** *(2021)*
 
  
 ***
-*Get all **my other games**: http://drludos.itch.io/* \
-***Support my work** and get access to betas and prototypes: http://www.patreon.com/drludos*
+Get all **my other games**: http://drludos.itch.io/ \
+**Support my work** and get access to betas and prototypes: http://www.patreon.com/drludos
 ***
 
 **Meteors are falling from the sky! Avoid them as long as possible to make an high score!**
