@@ -11,7 +11,8 @@ https://drludos.itch.io/meteorain-gba-jam-2021
  
 ***
 Get all **my other games**: http://drludos.itch.io/ \
-**Support my work** and get access to betas and prototypes: http://www.patreon.com/drludos
+**Support my work** and get access to betas and prototypes:\
+http://www.patreon.com/drludos
 ***
 
 **Meteors are falling from the sky! Avoid them as long as possible to make an high score!**
