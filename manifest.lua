@@ -13,7 +13,6 @@ local app = {
 
    audio = {
       "music.raw",
-      "silence.raw",
       "sfx_gameover.raw",
       "sfx_crash.raw",
    },
