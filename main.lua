@@ -108,7 +108,7 @@ for i = 0,29,1 do
 end
 
 --#Reorder the layer priority so the sprites are displayed OVER the overlay (other layers are kept to their default values)
-priority(0, 2, 3, 3)
+priority(0, 3, 2, 3)
 
 
 
